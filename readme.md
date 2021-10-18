@@ -1,4 +1,4 @@
 # demo
+Fyp
+The project title is smart home renovation system.
 
-testing repository..
-in fyp the project is home renovating app
